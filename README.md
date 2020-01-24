@@ -10,4 +10,5 @@ Este projeto visa a criação de um clone do Nubank utilizando React Native, a f
 
 <p align="center">
     <img src="/src/assets/Screenshot_20200124-170228_Nubank.jpg">
+    Resultado do Projeto!!
 </p>
