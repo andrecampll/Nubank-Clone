@@ -1,2 +1,2 @@
 # Nubank-Clone
-Clone do React Native
+Clone do app Nubank em React Native
